@@ -1,5 +1,8 @@
+# Builded files
+/target/
+
 # Vim swap files
 .*.swp
 
 # Eclipse workspace
-workspace/
+/workspace/
